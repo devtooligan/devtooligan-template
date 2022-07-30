@@ -44,8 +44,10 @@ test
 
 ## Acknowledgements
 
-- [forge-template](https://github.com/foundry-rs/forge-template)
-- [devtooligan-template](https://github.com/devtooligan/devtooligan-template)
+- [foundry-template](https://github.com/transmissions11/foundry-template)
+- [femplate](https://github.com/abigger87/femplate)
+- [nomad-xyz/monorepo](https://github.com/nomad-xyz/monorepo/)
+- [huff-project-template](https://github.com/huff-language/huff-project-template)
 
 
 ## Disclaimer

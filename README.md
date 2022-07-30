@@ -1,13 +1,12 @@
-# devtooligan-template
+# devtooligan -template
+[![ci](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml/badge.svg)](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml) ![solidity](https://img.shields.io/badge/Solidity-8.15.0-blue) ![huff](https://img.shields.io/badge/Huff-0.2.0-blue) ![Foundry](https://img.shields.io/badge/Foundry-blue) ![license](https://img.shields.io/github/license/devtooligan/devtooligan-template) ![license](https://img.shields.io/twitter/follow/devtooligan?label=Follow)
 
-# huff-project-template • [![ci](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml/badge.svg)](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml) ![license](https://img.shields.io/github/license/devtooligan/devtooligan-template.svg) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
-
-Versatile Huff Project Template using Foundry.
+Versatile Project Template using Huff and Foundry.
 
 
 ## Getting Started
 
-Click "Use this template" on [GitHub](https://github.com/huff-language/huff-project-template) to create a new repository with this repo as the initial state.
+Click "Use this template" on [GitHub](https://github.com/devtooligan/devtooligan-template) to create a new repository with this repo as the initial state.
 
 Once you've cloned and entered into your repository, you need to install the necessary dependencies. In order to do so, simply run:
 

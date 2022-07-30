@@ -1,15 +1,5 @@
 # devtooligan-template
 
-<!-- [![ci](https://github.com/devtooligan/huff-rs/actions/workflows/ci.yaml/badge.svg)](https://github.com/huff-language/huff-rs/actions/workflows/ci.yaml) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Crates.io](https://img.shields.io/crates/v/huff-rs) ![Discord](https://img.shields.io/discord/980519274600882306) -->
-
-## Installation
-Built with the [devtooligan-template](https://github.com/devtooligan/devtooligan-template)
-
-
-
-## Usage
-
-
 # huff-project-template • [![ci](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml/badge.svg)](https://github.com/devtooligan/devtooligan-template/actions/workflows/ci.yml) ![license](https://img.shields.io/github/license/devtooligan/devtooligan-template.svg) ![solidity](https://img.shields.io/badge/solidity-^0.8.15-lightgrey)
 
 Versatile Huff Project Template using Foundry.
